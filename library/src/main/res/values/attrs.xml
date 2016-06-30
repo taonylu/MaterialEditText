@@ -69,4 +69,9 @@
     <attr name="met_checkCharactersCountAtBeginning" format="boolean"/>
 
   </declare-styleable>
+  <declare-styleable name="PasswordView">
+    <attr name="useStrikeThrough" format="boolean" />
+    <!-- Eye button -->
+    <attr name="met_eye" format="boolean" />
+  </declare-styleable>
 </resources>
