@@ -61,7 +61,9 @@ AppCompat v21 makes it easy to use Material Design EditText in our apps, but it'
 8. **Material Design Icon**
 
   ![MaterialDesignIcon](./images/material_design_icon.png)
+8. **Material Password Edit text**
 
+  ![MaterialPasswordEdittext](./images/MaterialPasswordEditText.gif)
 ## Sample
 
 [MaterialEditText-2.1.4-sample.apk](https://github.com/rengwuxian/MaterialEditText/releases/download/2.1.4/MaterialEditText-2.1.4-sample.apk)
